@@ -25,8 +25,8 @@ To write a Python program to implement a stack using a list and its built-in met
 ---
 
 ### PROGRAM
-NAME: s.pugazhendhi
-REG NO: 212223060214
+NAME: SENTHIL KANAGAVEL BALASUNDARAM
+REG NO: 212223060254
 
 ```
 stack = []

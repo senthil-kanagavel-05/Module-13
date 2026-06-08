@@ -28,8 +28,8 @@ To write a Python program to convert a given Infix expression to Postfix express
 ---
 
 ### PROGRAM
-NAME: s.pugazhendhi
-REG NO: 212223060214
+NAME: SENTHIL KANAGAVEL BALASUNDARAM
+REG NO: 212223060254
 
 ```
 Operators = set(['|', '*', '%','(',')']) # collection of Operators

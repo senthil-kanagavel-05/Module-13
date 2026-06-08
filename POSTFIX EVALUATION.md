@@ -30,8 +30,8 @@ To write a Python program to evaluate a user-given Postfix expression that conta
 ---
 
 ### PROGRAM
-NAME: s.pugazhendhi
-REG NO: 212223060214
+NAME: SENTHIL KANAGAVEL BALASUNDARAM
+REG NO: 212223060254
 
 ```
 OPERATORS=set(['*','-','+','%','/','**']) 
